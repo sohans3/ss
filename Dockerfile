@@ -1,4 +1,4 @@
-FROM ngnix
+FROM nginx
 expose 80
 maintainer sohan
 label first pipeline
